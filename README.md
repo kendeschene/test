@@ -8,6 +8,12 @@
 
 > :bulb:
 
+---
+
+[click here](https://www.oracle.com)
+
+![alt test](image.jpg)
+
 1. Run `some commands` to test
 
 2. Click "Exit"
