@@ -12,6 +12,8 @@
 
 [click here](https://www.oracle.com)
 
+<a href="https://msn.com/" target="_blank">Hello, world!</a>
+
 ![alt test](image.jpg)
 
 1. Run `some commands` to test
