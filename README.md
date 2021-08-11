@@ -12,7 +12,8 @@
 
 2. Click "Exit"
 
-3. Click on ```bash
+3. Click on
+   ```bash
    test
    ```
 4. End 
