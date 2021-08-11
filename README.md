@@ -6,4 +6,4 @@
 
 :heartpulse:
 
-:lightbulb:
+:bulb:
