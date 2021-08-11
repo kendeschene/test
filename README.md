@@ -13,7 +13,7 @@
 2. Click "Exit"
 
 3. Click on
-   ```bash
-   test
-   ```
+```bash
+test
+``
 4. End 
